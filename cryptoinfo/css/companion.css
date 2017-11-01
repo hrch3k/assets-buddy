@@ -1,0 +1,44 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+
+#main {
+    border:2px solid #7e7e7e;
+    border-radius:10px;
+    padding: 10px;
+}
+
+.getaddress {
+	background-color:#0b5d94;
+	border-radius:10px;
+	border:2px solid #7e7e7e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+    padding:8px 20px;
+	text-shadow:0px 1px 0px #a5a3a3;
+}
+
+.getaddress:hover {
+	background-color:#4aacee;
+}
+
+.getcoin {
+	background-color:#0b5d94;
+	border-radius:10px;
+	border:2px solid #7e7e7e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+    padding:8px 20px;
+	text-shadow:0px 1px 0px #a5a3a3;
+}
+
+.getcoin:hover {
+	background-color:#4aacee;
+}
